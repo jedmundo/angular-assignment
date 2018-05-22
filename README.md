@@ -11,6 +11,10 @@ Requirements:
 1. Create a branch (with any name) from this repository
 2. Create the user's table
 	* The table must be in its own module and component
+	* The columns for the table should be:
+		* Name
+		* Company ( the name of the company)
+		* Address (which contains fields `street`, and `city` together)
 	* Have pagination for your data
 	* You must do an HTTP call to get the data from: https://jsonplaceholder.typicode.com/users
 3. All functionalities must be covered with unit tests
