@@ -21,3 +21,7 @@ Requirements:
 	* You must do an HTTP call to get the data from: https://jsonplaceholder.typicode.com/users
 3. All functionalities must be covered with unit tests
 4. Make it look pretty is optional (feel free to use whatever component library / styling framework you like)
+
+Finish:
+
+When you are done just create a pull request with the solution.
