@@ -6,6 +6,7 @@ Steps to start developing:
 1. Checkout this repository
 2. Run `npm install`
 3. Run `npm start`
+4. Go to http://localhost:4200
 
 Requirements:
 1. Create a branch (with any name) from this repository
